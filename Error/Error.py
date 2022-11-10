@@ -8,7 +8,7 @@ class Error :
 
         return sum
         
-
+    
     def countErrorCriterion(n) :    # Build the error criterion : εs
         errorCriterion = (0.5 * 10 ** (2 - n)) * 100
 
